@@ -1,5 +1,1 @@
-git add .
-git commit -m "my first commit"
-git push
-git branch newBrabch Name
-git checkout branch name
+“git pull”
